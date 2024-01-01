@@ -1,0 +1,7 @@
+spring:
+  #配置数据库
+  datasource:
+    url: jdbc:mysql://localhost:3306/qk-clound?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=true
+    username: root
+    password: he142536.!
+    driver-class-name: com.mysql.cj.jdbc.Driver
